@@ -1,0 +1,13 @@
+.single-receipent{
+    text-overflow: ellipsis;
+}
+.multiple-receipent{
+    display: flex;
+}
+.multiple-emails{
+    display: inline-block;
+    width: 90%;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+}
